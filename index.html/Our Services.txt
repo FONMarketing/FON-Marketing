@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Beautiful Web Page</title>
+    <style>
+        body {
+            background-color: #161616;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-image: url('team.jpg'); /* Replace with your header image */
+            background-size: cover;
+            background-position: center;
+            font-size: 12px;
+            font-family: 'Eras Demi ITC', sans-serif;
+            color: #e8d94a;
+            text-align: center;
+            padding: 15px 0;
+        }
+
+        nav {
+            background-color: #000;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        nav a {
+            text-decoration: none;
+            font-family: 'Eras Demi ITC', sans-serif;
+            color: #fff;
+            font-size: 15px;
+            font-weight: bold;
+            margin: 0 10px;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #fff;
+        }
+
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 10px;
+        }
+
+        section {
+            margin-bottom: 0 px;
+            text-align: center;
+            font-family: 'Eras Demi ITC', sans-serif;
+            color: #fff;
+            font-size: 15px;
+        }
+
+        section img {
+            width: 375px; /* Adjust the size as needed */
+            height: auto; /* Adjust the size as needed */
+            margin-bottom: 0px;
+        }
+#team {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.team-member {
+    margin-bottom: 40px;
+}
+
+.team-member img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.team-member h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.team-member p {
+    font-size: 14px;
+}
+
+
+        footer {
+            background-color: #000;
+            font-family: 'Eras Demi ITC', sans-serif;
+            color: #ffd700;
+            text-align: center;
+            padding: 10px 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Fayez Design<br>
+Where Design Meets Impact.</h1>
+    </header>
+
+    <nav>
+        <a href="home page.html">Home</a>
+        <a href="about.html">About US</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <main>
+
+        <section>
+          <h>Our Services</h>
+<p>At Fayez Design, we blend creativity with expertise to deliver design solutions that leave a lasting impression. Explore our services and let's embark on a journey to elevate your brand to new heights.</p>
+        </section>
+
+    </main>
+
+    <footer>
+        &copy; 2023 Fayez Design. All rights reserved.
+    </footer>
+</body>
+</html>
