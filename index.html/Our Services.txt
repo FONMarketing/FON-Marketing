@@ -100,7 +100,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to Fayez Design<br>
+        <h1>Welcome to FON Marketing<br>
 Where Design Meets Impact.</h1>
     </header>
 
